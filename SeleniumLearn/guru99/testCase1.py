@@ -18,7 +18,7 @@ class test1(unittest.TestCase):
         try:
             assert "Guru99" in driver.title
         except:
-            print " Sorry Pragnya is not present in title"
+            print " Sorry name is not present in title"
         #break
 
 
